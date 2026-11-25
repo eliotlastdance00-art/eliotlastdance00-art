@@ -1,29 +1,25 @@
 <div align="center">
+  <img src="./assets/glitch-hacker-header.svg" alt="Eliot glitch hacker banner" width="100%" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1200&color=FF2A6D&center=true&vCenter=true&width=900&lines=%3E+production-focused+engineer;%3E+FastAPI+.+Flutter+.+Rust+.+Applied+AI;%3E+fintech+.+forensics+.+automation+.+Turkmen+tech" alt="Typing intro" />
+  <br/>
+  <sub>backend systems • mobile apps • applied AI • Turkmen-language technology</sub>
+</div>
 
-```text
-███████╗██╗     ██╗ ██████╗ ████████╗
-██╔════╝██║     ██║██╔═══██╗╚══██╔══╝
-█████╗  ██║     ██║██║   ██║   ██║
-██╔══╝  ██║     ██║██║   ██║   ██║
-███████╗███████╗██║╚██████╔╝   ██║
-╚══════╝╚══════╝╚═╝ ╚═════╝    ╚═╝
-```
-
-# Eliot
-
-### Production-focused engineer working across FastAPI, Flutter, Rust, and AI.
-
-**Backend systems · Mobile apps · Applied AI · Turkmen-language technology**
-
+<div align="center">
+<pre>
+┌─[eliot@github]─[~/build]
+└──╼ $ ship real systems
+</pre>
 </div>
 
 ---
 
-## About
+## // about
 
 I build production-oriented software at the intersection of **backend engineering**, **mobile development**, and **applied AI**.
 
-My work focuses on systems that need to be **correct, fast, and practical**: financial backends, mobile automation, media forensics, and language technology for low-resource contexts like **Turkmen**.
+My work leans toward systems that need to be **correct, fast, and practical**: financial backends, mobile automation, media forensics, and language technology for low-resource contexts like **Turkmen**.
 
 I care about:
 - designing systems from first principles
@@ -32,96 +28,88 @@ I care about:
 
 ---
 
-## Flagship Projects
+## // flagship systems
 
-### 1. [Find](https://github.com/eliotlastdance00-art/Find)
-**Self-hosted deepfake detection for video, image, and audio**
+### [Find](https://github.com/eliotlastdance00-art/Find)
+`MEDIA FORENSICS` `SELF-HOSTED` `EXPLAINABLE AI`
 
-A practical media-forensics system that estimates fake probability, generates Grad-CAM heatmaps, and produces PDF-style analysis outputs. Built for explainability and real usability rather than demo-only inference.
+A self-hosted deepfake detection system for video, image, and audio workflows. Built around practical analysis, explainability, and real-world usability instead of notebook-only demos.
 
-**Why it stands out**
-- multi-modal deepfake detection direction
-- explainability with Grad-CAM overlays
-- self-hosted architecture instead of API dependency
-- multilingual product orientation: Turkmen, Russian, and English UI
+- fake probability scoring + Grad-CAM heatmaps
+- multilingual product direction: Turkmen, Russian, and English UI
+- designed as a usable product, not just isolated inference code
 
-**Stack:** FastAPI, PyTorch, computer vision, audio forensics
+**Stack:** FastAPI · PyTorch · computer vision · audio forensics
 
 ---
 
-### 2. [super-wallet](https://github.com/eliotlastdance00-art/super-wallet)
-**Production-grade fintech wallet backend**
+### [super-wallet](https://github.com/eliotlastdance00-art/super-wallet)
+`FINTECH` `LEDGER CORE` `IDEMPOTENCY`
 
 A wallet backend built from first principles around financial correctness: double-entry ledger design, idempotent transaction handling, and integer-precise money flows.
 
-**Why it stands out**
-- explicit ledger thinking instead of CRUD-style finance
-- idempotency as a core design rule
-- precise money handling without float errors
-- backend architecture aimed at real payment-system constraints
+- explicit ledger architecture instead of CRUD-style finance
+- transaction correctness as a core system rule
+- built for real payment-system constraints and failure cases
 
-**Stack:** FastAPI, PostgreSQL, asyncpg, Redis, Docker
+**Stack:** FastAPI · PostgreSQL · asyncpg · Redis · Docker
 
 ---
 
-### 3. [auto-bilet](https://github.com/eliotlastdance00-art/auto-bilet)
-**Railway ticket automation with a Rust core and Android shell**
+### [auto-bilet](https://github.com/eliotlastdance00-art/auto-bilet)
+`AUTOMATION` `RUST CORE` `ANDROID`
 
 An advanced Android automation system for ticket monitoring, reservation flow handling, seat selection logic, dual-bank payment support, and automatic OTP capture.
 
-**Why it stands out**
 - Rust core integrated into mobile through UniFFI
 - reverse-engineered workflow handling for resilience
-- exact-timing automation for midnight ticket drops
-- real-world payment and OTP flow integration
+- exact-timing automation for midnight ticket releases
 
-**Stack:** Rust, Kotlin, Jetpack Compose, Android, UniFFI
+**Stack:** Rust · Kotlin · Jetpack Compose · Android · UniFFI
 
 ---
 
-### 4. [turkmen_voice](https://github.com/eliotlastdance00-art/turkmen_voice)
-**Turkmen speech dataset collection platform**
+### [turkmen_voice](https://github.com/eliotlastdance00-art/turkmen_voice)
+`SPEECH DATA` `OFFLINE-FIRST` `LOW-RESOURCE NLP`
 
-An offline-first system for collecting validated Turkmen speech and text data for Whisper and related speech models. Includes contributor flow, admin review, export pipelines, and dataset tooling.
+An offline-first platform for collecting validated Turkmen speech and text data for Whisper and related speech models, with contributor flow, admin review, and export tooling.
 
-**Why it stands out**
-- solves a real low-resource language problem
-- offline-first mobile architecture
-- dataset quality control and export workflows
+- solves a real low-resource language infrastructure problem
+- dataset quality control + export workflows
 - useful for speech recognition research and fine-tuning
 
-**Stack:** Flutter, FastAPI, SQLite, Whisper tooling
+**Stack:** Flutter · FastAPI · SQLite · Whisper tooling
 
 ---
 
-## Secondary Projects
+## // secondary systems
 
 ### [University_system](https://github.com/eliotlastdance00-art/University_system)
 Full-stack university management platform with roles, academic structure, attendance, grading, notifications, and audit logging.
 
-**Stack:** FastAPI, MySQL, React, Vite
+**Stack:** FastAPI · MySQL · React · Vite
 
 ### [cyber_tools / VoiceReader](https://github.com/eliotlastdance00-art/cyber_tools)
-Private on-device PDF and text-to-speech reader for Android, designed around offline usage and zero cloud dependency.
+Private on-device PDF and text-to-speech reader for Android, built around offline usage and zero cloud dependency.
 
-**Stack:** Flutter, Dart, Android TTS
+**Stack:** Flutter · Dart · Android TTS
 
 ---
 
-## Engineering Focus
+## // build zones
 
-### Backend Systems
+### backend systems
 I enjoy designing APIs and internal services where **correctness, data modeling, and system behavior** matter more than surface-level CRUD speed.
 
-### Mobile Engineering
+### mobile engineering
 I build mobile apps with a strong focus on **practical UX, offline capability, and device-level integration**.
 
-### Applied AI
+### applied AI
 I’m interested in AI systems that solve concrete product problems: **forensics, speech, detection, and language tooling**.
 
 ---
 
-## Current Focus
+## // current signal
 
 - building practical AI products, not just experiments
 - improving system design depth in fintech and backend architecture
@@ -130,7 +118,7 @@ I’m interested in AI systems that solve concrete product problems: **forensics
 
 ---
 
-## GitHub Stats
+## // stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=eliotlastdance00-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
@@ -139,11 +127,9 @@ I’m interested in AI systems that solve concrete product problems: **forensics
 
 ---
 
-## Contact
+## // contact
 
 - GitHub: [@eliotlastdance00-art](https://github.com/eliotlastdance00-art)
-
----
 
 <div align="center">
 
