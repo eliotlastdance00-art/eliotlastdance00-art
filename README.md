@@ -1,12 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=ELIOT&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%C2%B7%20Mobile%20%C2%B7%20AI&descAlignY=62&descAlign=50" alt="Eliot header banner"/>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EE6A8&center=true&vCenter=true&width=650&lines=Backend+%26+Mobile+Developer;FastAPI+%C2%B7+Flutter+%C2%B7+Rust+%C2%B7+AI;Fintech+%E2%80%A2+Automation+%E2%80%A2+AI+%E2%80%A2+Turkmen+NLP;Ship+fast.+Harden+faster." alt="Typing SVG"/></a>
-</div>
-
-<br/>
 
 ```text
 ███████╗██╗     ██╗ ██████╗ ████████╗
@@ -17,93 +9,144 @@
 ╚══════╝╚══════╝╚═╝ ╚═════╝    ╚═╝
 ```
 
----
+# Eliot
 
-## 👨‍💻 About Me
+### Production-focused engineer working across FastAPI, Flutter, Rust, and AI.
 
-```python
-eliot = {
-    "role": "Backend & Mobile Developer",
-    "location": "Turkmenistan 🇹🇲",
-    "stack": ["FastAPI", "Flutter", "Rust", "PyTorch", "React"],
-    "currently_building": [
-        "🕵️ deepfake detector (video / image / audio)",
-        "🎫 railway ticket automation (Rust core + Android)",
-        "💰 double-entry fintech ledger",
-    ],
-    "focus": ["fintech", "automation", "AI", "turkmen-language tech"],
-    "open_to_work": True,
-}
-```
-
-- 🔭 Right now: **deepfake detection**, **fintech ledger** and **Turkmen speech data**
-- 🌱 Learning: advanced Rust, ML systems design, PostgreSQL internals
-- 💬 Ask me about: FastAPI architecture, Flutter offline-first, Rust mobile cores
-- ⚡ Motto: *ship fast, harden faster*
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,flutter,dart,kotlin,rust,react,js,ts,postgres,mysql,sqlite,redis,docker,git,linux,vscode&theme=dark" alt="Tech stack icons"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eliotlastdance00-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=eliotlastdance00-art&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-  <br/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliotlastdance00-art&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| | |
-|---|---|
-| [![Find](https://github-readme-stats.vercel.app/api/pin/?username=eliotlastdance00-art&repo=Find&theme=tokyonight&hide_border=true)](https://github.com/eliotlastdance00-art/Find) | [![auto-bilet](https://github-readme-stats.vercel.app/api/pin/?username=eliotlastdance00-art&repo=auto-bilet&theme=tokyonight&hide_border=true)](https://github.com/eliotlastdance00-art/auto-bilet) |
-| [![super-wallet](https://github-readme-stats.vercel.app/api/pin/?username=eliotlastdance00-art&repo=super-wallet&theme=tokyonight&hide_border=true)](https://github.com/eliotlastdance00-art/super-wallet) | [![University_system](https://github-readme-stats.vercel.app/api/pin/?username=eliotlastdance00-art&repo=University_system&theme=tokyonight&hide_border=true)](https://github.com/eliotlastdance00-art/University_system) |
-| [![turkmen_voice](https://github-readme-stats.vercel.app/api/pin/?username=eliotlastdance00-art&repo=turkmen_voice&theme=tokyonight&hide_border=true)](https://github.com/eliotlastdance00-art/turkmen_voice) | [![cyber_tools](https://github-readme-stats.vercel.app/api/pin/?username=eliotlastdance00-art&repo=cyber_tools&theme=tokyonight&hide_border=true)](https://github.com/eliotlastdance00-art/cyber_tools) |
+**Backend systems · Mobile apps · Applied AI · Turkmen-language technology**
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## About
+
+I build production-oriented software at the intersection of **backend engineering**, **mobile development**, and **applied AI**.
+
+My work focuses on systems that need to be **correct, fast, and practical**: financial backends, mobile automation, media forensics, and language technology for low-resource contexts like **Turkmen**.
+
+I care about:
+- designing systems from first principles
+- building software that survives real usage
+- combining strong architecture with product thinking
+
+---
+
+## Flagship Projects
+
+### 1. [Find](https://github.com/eliotlastdance00-art/Find)
+**Self-hosted deepfake detection for video, image, and audio**
+
+A practical media-forensics system that estimates fake probability, generates Grad-CAM heatmaps, and produces PDF-style analysis outputs. Built for explainability and real usability rather than demo-only inference.
+
+**Why it stands out**
+- multi-modal deepfake detection direction
+- explainability with Grad-CAM overlays
+- self-hosted architecture instead of API dependency
+- multilingual product orientation: Turkmen, Russian, and English UI
+
+**Stack:** FastAPI, PyTorch, computer vision, audio forensics
+
+---
+
+### 2. [super-wallet](https://github.com/eliotlastdance00-art/super-wallet)
+**Production-grade fintech wallet backend**
+
+A wallet backend built from first principles around financial correctness: double-entry ledger design, idempotent transaction handling, and integer-precise money flows.
+
+**Why it stands out**
+- explicit ledger thinking instead of CRUD-style finance
+- idempotency as a core design rule
+- precise money handling without float errors
+- backend architecture aimed at real payment-system constraints
+
+**Stack:** FastAPI, PostgreSQL, asyncpg, Redis, Docker
+
+---
+
+### 3. [auto-bilet](https://github.com/eliotlastdance00-art/auto-bilet)
+**Railway ticket automation with a Rust core and Android shell**
+
+An advanced Android automation system for ticket monitoring, reservation flow handling, seat selection logic, dual-bank payment support, and automatic OTP capture.
+
+**Why it stands out**
+- Rust core integrated into mobile through UniFFI
+- reverse-engineered workflow handling for resilience
+- exact-timing automation for midnight ticket drops
+- real-world payment and OTP flow integration
+
+**Stack:** Rust, Kotlin, Jetpack Compose, Android, UniFFI
+
+---
+
+### 4. [turkmen_voice](https://github.com/eliotlastdance00-art/turkmen_voice)
+**Turkmen speech dataset collection platform**
+
+An offline-first system for collecting validated Turkmen speech and text data for Whisper and related speech models. Includes contributor flow, admin review, export pipelines, and dataset tooling.
+
+**Why it stands out**
+- solves a real low-resource language problem
+- offline-first mobile architecture
+- dataset quality control and export workflows
+- useful for speech recognition research and fine-tuning
+
+**Stack:** Flutter, FastAPI, SQLite, Whisper tooling
+
+---
+
+## Secondary Projects
+
+### [University_system](https://github.com/eliotlastdance00-art/University_system)
+Full-stack university management platform with roles, academic structure, attendance, grading, notifications, and audit logging.
+
+**Stack:** FastAPI, MySQL, React, Vite
+
+### [cyber_tools / VoiceReader](https://github.com/eliotlastdance00-art/cyber_tools)
+Private on-device PDF and text-to-speech reader for Android, designed around offline usage and zero cloud dependency.
+
+**Stack:** Flutter, Dart, Android TTS
+
+---
+
+## Engineering Focus
+
+### Backend Systems
+I enjoy designing APIs and internal services where **correctness, data modeling, and system behavior** matter more than surface-level CRUD speed.
+
+### Mobile Engineering
+I build mobile apps with a strong focus on **practical UX, offline capability, and device-level integration**.
+
+### Applied AI
+I’m interested in AI systems that solve concrete product problems: **forensics, speech, detection, and language tooling**.
+
+---
+
+## Current Focus
+
+- building practical AI products, not just experiments
+- improving system design depth in fintech and backend architecture
+- expanding Turkmen-language tooling and datasets
+- pushing more Rust into performance-sensitive workflows
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eliotlastdance00-art/eliotlastdance00-art/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eliotlastdance00-art/eliotlastdance00-art/output/github-snake-light.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eliotlastdance00-art/eliotlastdance00-art/output/github-snake.svg" />
-  </picture>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eliotlastdance00-art&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliotlastdance00-art&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
 ---
 
-## 📫 Connect With Me
+## Contact
+
+- GitHub: [@eliotlastdance00-art](https://github.com/eliotlastdance00-art)
+
+---
 
 <div align="center">
-  <a href="https://github.com/eliotlastdance00-art?tab=followers"><img src="https://custom-icon-badges.demolab.com/github/followers/eliotlastdance00-art?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" alt="Follow me"/></a>
-  <img src="https://img.shields.io/badge/Open_To_Work-2EE6A8?style=for-the-badge&logo=github&logoColor=white" alt="Open to work"/>
-  <br/><br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=eliotlastdance00-art&color=2EE6A8&style=flat" alt="Profile views"/>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="footer"/>
+**Open to meaningful engineering work, ambitious products, and difficult technical problems.**
+
 </div>
