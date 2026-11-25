@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 198" width="920" height="198" role="img" aria-label="Backend Systems Engineer — Python, FastAPI, PostgreSQL, Rust">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="920" y2="198" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#080b10"/>
+      <stop offset="1" stop-color="#0c1119"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#151b24" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="920" height="198" rx="10" fill="url(#bg)" stroke="#21262d"/>
+  <rect width="920" height="198" rx="10" fill="url(#grid)" opacity="0.65"/>
+
+  <!-- Status Pill -->
+  <rect x="28" y="24" width="276" height="24" rx="4" fill="#0d1714" stroke="#1b3b2f"/>
+  <circle cx="42" cy="36" r="3.5" fill="#10b981">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="54" y="40" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="600">BACKEND ENGINEER · OPEN TO ROLES</text>
+
+  <!-- Headline -->
+  <text x="28" y="88" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="32" font-weight="800" letter-spacing="-0.6">
+    Backend Systems Engineer
+  </text>
+  <text x="28" y="116" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="15">
+    I write raw SQL without ORMs, design atomic state machines, and build APIs that hold up under concurrency.
+  </text>
+
+  <!-- Core Stack Strip -->
+  <line x1="28" y1="140" x2="892" y2="140" stroke="#1e2530" stroke-width="1"/>
+  <rect x="28" y="139" width="64" height="2" fill="#10b981" opacity="0.85">
+    <animate attributeName="x" values="28;828;28" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="28" y="170" fill="#e2e8f0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="600">
+    PRIMARY: <tspan fill="#10b981">Python 3.12 · FastAPI · PostgreSQL (asyncpg) · MySQL</tspan>
+    <tspan fill="#475569">  |  </tspan>
+    SYSTEMS: <tspan fill="#e2e8f0">Rust (Tokio) · Redis · Docker</tspan>
+  </text>
+</svg>

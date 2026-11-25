@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 168" width="440" height="168" role="img" aria-label="super-wallet — Python PostgreSQL Fintech Backend">
+  <rect width="440" height="168" rx="10" fill="#090d13" stroke="#21262d"/>
+  <rect x="0" y="18" width="3" height="28" fill="#10b981"/>
+  <text x="18" y="34" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">super-wallet</text>
+  <text x="422" y="33" text-anchor="end" fill="#10b981" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="600">PYTHON · POSTGRESQL</text>
+
+  <text x="18" y="56" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5">Fintech backend built from first principles without an ORM.</text>
+  <text x="18" y="73" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12">• Argon2id + TOTP 2FA, refresh-token rotation, lockout, audit log</text>
+  <text x="18" y="90" fill="#cbd5e1" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="12">• Transactional outbox worker + Redis Streams + Alembic SQL</text>
+
+  <rect x="18" y="106" width="404" height="24" rx="5" fill="#0d131d" stroke="#1c2430"/>
+  <circle cx="30" cy="118" r="3" fill="#10b981">
+    <animate attributeName="cx" values="30;410;30" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="42" y="122" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">FastAPI → raw asyncpg → Outbox Worker → Redis / Postgres</text>
+
+  <text x="18" y="152" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5">app/core/outbox.py · app/users/ · 6 Alembic migrations</text>
+</svg>
